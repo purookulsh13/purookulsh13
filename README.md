@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Github_profile
 ### Hi there, I'm Puroo Kulshrestha 👋 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ssjpTj_PtGoApUATjC0E8IyDjnJrOu1qvQ&s" style="width:50%;">
+  <img src="https://i.pinimg.com/736x/c0/e1/5f/c0e15fc5b0a8751878fb7ccf17c4fa89.jpg" style="width:55%;">
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
