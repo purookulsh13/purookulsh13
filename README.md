@@ -33,10 +33,13 @@ Here are some ideas to get you started:
 
 ![Puroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=purookulsh13&theme=onedark)
 
+<h2>📊 Languages Used</h2>
+
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=purookulsh13&theme=onedark&layout=compact)
 <br>
 <br />
 
-### Languages and Tools:
+
 
 ### Languages and Tools:
 
